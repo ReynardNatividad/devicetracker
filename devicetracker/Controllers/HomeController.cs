@@ -15,7 +15,7 @@ namespace devicetracker.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Hello World";
 
             return View();
         }
